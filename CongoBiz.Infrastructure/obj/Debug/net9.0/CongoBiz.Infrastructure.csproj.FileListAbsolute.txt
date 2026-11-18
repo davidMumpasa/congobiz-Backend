@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Infrastructure.deps.json
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Infrastructure.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Infrastructure.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Application.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Domain.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Application.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\bin\Debug\net9.0\CongoBiz.Domain.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.59962BB1.Up2Date
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\refint\CongoBiz.Infrastructure.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\CongoBiz.Infrastructure.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Infrastructure\obj\Debug\net9.0\ref\CongoBiz.Infrastructure.dll

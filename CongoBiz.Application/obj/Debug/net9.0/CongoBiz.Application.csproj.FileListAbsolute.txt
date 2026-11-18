@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\bin\Debug\net9.0\CongoBiz.Application.deps.json
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\bin\Debug\net9.0\CongoBiz.Application.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\bin\Debug\net9.0\CongoBiz.Application.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\bin\Debug\net9.0\CongoBiz.Domain.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\bin\Debug\net9.0\CongoBiz.Domain.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.19104348.Up2Date
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\refint\CongoBiz.Application.dll
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\CongoBiz.Application.pdb
+C:\Users\Lenovo\Documents\projects\congobiz\backend\CongoBiz.Application\obj\Debug\net9.0\ref\CongoBiz.Application.dll
